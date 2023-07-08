@@ -7,6 +7,10 @@ weight: -120
 
 ![Juleen Photo](/images/juleen.png)
 
+## Contact
+
+You can email Juleen at [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com).
+
 ## Bio
 
 Juleen Eun Sun Johnson is an interdisciplinary BIPOC writer and artist. Johnson was born in Seoul, South Korea. She was adopted at three and taken to Valdez, Alaska at the age of three. Johnson earned an MFA in Visual Studies from PNCA and an MFA in Creative Writing from University of Massachusetts, Amherst. She is a MacDowell Colony Fellow and the recipient of the Isabella Gardner Fellowship. Johnson is also a recipient of the Cannon Beach Art Association Grant for art and writing. 

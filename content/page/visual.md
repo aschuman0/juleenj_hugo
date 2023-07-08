@@ -5,6 +5,8 @@ menu: sidebar
 weight: -100
 ---
 
+Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales inquiries .
+
 ## Paintings
 
 #### SOS
