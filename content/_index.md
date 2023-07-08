@@ -4,4 +4,8 @@ menu: sidebar
 weight: -270
 ---
 
-This is the front page.
+**Upcoming Event!**
+
+---
+
+![Statements and Illuminations Flyer](/images/statements_flyer.jpg)

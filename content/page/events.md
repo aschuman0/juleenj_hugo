@@ -5,4 +5,4 @@ menu: sidebar
 weight: -80
 ---
 
-Some upcoming events...
+![Statements and Illuminations Flyer](/images/statements_flyer.jpg)
