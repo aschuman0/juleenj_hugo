@@ -26,9 +26,8 @@ Johnson’s work has been published in: The Rio Grande Review, Whiskey Island Ma
 *2019* - Summer University of Oxford, UK 							    	    
 *2015* - Summer Iowa Summer Writers’ Workshop in Poetry						    
 *2012* - MFA Pacific Northwest College of Art, Visual Studies with an emphasis in theoretical practice	    
-*2010* - BA CSU Monterey Bay, Visual and Public Art							   
-*2010* - BA CSU Monterey Bay, Humanities and Communication Concentrations: Integrated Media and Museum Studies					    
-*2009* - Distinction within the Major Concentrations: Creative Writing & Social Action and Film & Literature Minor: Cinematic Arts
+*2010* - BA CSU Monterey Bay, Visual and Public Art	Concentrations: Integrated Media and Museum Studies					   
+*2009* - BA CSU Monterey Bay, Humanities and Communication Concentrations: Creative Writing & Social Action and Film & Literature Minor: Cinematic Arts - Distinction within the Major
 
 ### Residencies, Fellowships, and Grants 
 
