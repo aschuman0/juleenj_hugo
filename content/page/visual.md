@@ -17,7 +17,7 @@ Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales
 
 #### Internal Weather
 ![Interal Weather](/images/painting/internal_weather.jpg)
-*32.5 x 56 in | Acrylic on Canvas | 2023 | $950*
+*56 x 32.5 in | Acrylic on Canvas | 2023 | $950*
 
 ---
 

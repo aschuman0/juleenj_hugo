@@ -1,7 +1,6 @@
 ---
-title: "Home"
-menu: sidebar
-weight: -270
+title: "Statements and Illuminations"
+date: 2023-07-08T14:50:04-07:00
 ---
 
 **Show open now in Astoria, OR!** Please [contact me](mailto:juleenjohnson@gmail.com) for a showing
