@@ -23,7 +23,7 @@ Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales
 
 #### Zephyr
 ![Zephyr](/images/painting/zephyr.jpg)
-*61 x 45 in | Acrylic on Canvas | 2023 | $850*
+*61 x 45 in | Acrylic on Canvas | 2023 | SOLD*
 
 ---
 
@@ -35,7 +35,7 @@ Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales
 
 #### Holding (I Love Yous)
 ![Holding](/images/painting/holding.jpg)
-*40.5 x 36 in | Mixed-media | 2023 | $850*
+*40.5 x 36 in | Mixed-media | 2023 | SOLD*
 
 ---
 
