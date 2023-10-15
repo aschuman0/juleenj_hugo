@@ -5,4 +5,11 @@ menu: sidebar
 weight: -110
 ---
 
-Publication history coming soon.
+# Books
+
+Juleen's debut Chapbook is forthcoming on [Bottlecap Press!](https://bottlecap.press)
+
+Check back for more information soon!
+
+# Online
+Online publications coming soon!

@@ -29,6 +29,14 @@ Johnson’s work has been published in: The Rio Grande Review, Whiskey Island Ma
 *2010* - BA CSU Monterey Bay, Visual and Public Art	Concentrations: Integrated Media and Museum Studies					   
 *2009* - BA CSU Monterey Bay, Humanities and Communication Concentrations: Creative Writing & Social Action and Film & Literature Minor: Cinematic Arts - Distinction within the Major
 
+### Book Publication
+
+*2023* - Topography of Materials, Bottlecap Press, Morongo Valley, CA
+
+### Visual Art Exposure
+
+*2023 - Present* - Whitebird Gallery, Cannon Beach, Oregon
+
 ### Residencies, Fellowships, and Grants 
 
 *2023* - Seventh Wave, Poetry Fellowship								     

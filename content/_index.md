@@ -4,8 +4,18 @@ menu: sidebar
 weight: -270
 ---
 
-**Show open now in Astoria, OR!** Please [contact me](mailto:juleenjohnson@gmail.com) for a showing
+# Upcoming Events
+Juleen will be the opening reader for David Sedaris in Portland, Oregon on November 10, 2023
 
-[See the article in HIPFiSH here (pg 4)](https://www.hipfishmonthly.com/wp-content/uploads/2023/07/723.pdf)
+[Tickets avalible from Portland 5 here](https://www.portland5.com/arlene-schnitzer-concert-hall/events/evening-david-sedaris)
 
-![Statements and Illuminations Flyer](/images/statements_flyer.jpg)
+---
+
+Juleen will be reading at the White Bird Gallery in Cannon Beach, Oregon on November 3rd, 2023 at 3:30pm for the [Stormy Weather Arts Festival](https://www.cannonbeach.org/events-and-festivals/arts-events/stormy-weather-arts-festival/).
+
+Please join us!
+
+![Stormy Weather Flyer](/images/swaf_2023_flyer.jpg)
+
+<!-- ![Floral Musical Score](/images/painting/floral_score.jpg)
+*8.5 x 11 in | Mixed-media | 2023* -->

@@ -5,19 +5,21 @@ menu: sidebar
 weight: -100
 ---
 
+Juleen's visual art work can be found at the [Whitebird Gallery](https://whitebirdgallery.com) in Cannon Beach, Oregon.
+
 Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales inquiries .
 
 ## Paintings
 
 #### SOS
 ![SOS](/images/painting/sos.jpg)
-*34 x 37 in | Mixed-media | 2023 | $750*
+*34 x 37 in | Mixed-media | 2023*
 
 ---
 
 #### Internal Weather
 ![Interal Weather](/images/painting/internal_weather.jpg)
-*56 x 32.5 in | Acrylic on Canvas | 2023 | $950*
+*56 x 32.5 in | Acrylic on Canvas | 2023*
 
 ---
 
@@ -29,7 +31,7 @@ Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales
 
 #### Two Birds
 ![Two Birds](/images/painting/two_birds.jpg)
-*70 x 26 in | Mixed-media | 2023 | $775*
+*70 x 26 in | Mixed-media | 2023*
 
 ---
 
@@ -41,7 +43,7 @@ Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales
 
 #### Temps Morte
 ![Temps Morte](/images/painting/temps_morte.jpg)
-*18.5 x 23 in | Mixed-media | 2023 | $450*
+*18.5 x 23 in | Mixed-media | 2023*
 
 ---
 
@@ -49,22 +51,22 @@ Please email [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com) for sales
 
 #### A Day At The Beach
 ![A Day At The Beach](/images/painting/beach.jpg)
-*11 x 14 in | Mixed-media | 2023 | $125*
+*11 x 14 in | Mixed-media | 2023*
 
 ---
 
 #### Floral Musical Score
 ![Floral Musical Score](/images/painting/floral_score.jpg)
-*8.5 x 11 in | Mixed-media | 2023 | $125*
+*8.5 x 11 in | Mixed-media | 2023*
 
 ---
 
 #### You/Me
 ![You/Me](/images/painting/you_me.jpg)
-*14 x 17 in | Mixed-media | 2023 | $125*
+*14 x 17 in | Mixed-media | 2023*
 
 ---
 
 #### The Date
 ![The Date](/images/painting/the_date.jpg)
-*14 x 17 in | Mixed-media | 2023 | $125*
+*14 x 17 in | Mixed-media | 2023*
