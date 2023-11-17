@@ -12,9 +12,11 @@ Juleen's debut Chapbook is available on Bottlecap Press!
 
 —Diana Garcia, author of When Living Was a Labor Camp, 2001 American Book Award Winner
 
-[**Click Here to purchase Topography of Materials!**](https://bottlecap.press/collections/bottlecap-features/products/topography)
+[**Contact Juleen to purchase Topography of Materials**](mailto:juleenjohnson@gmail.com)
 
----
+[**Click Here to purchase Topography of Materials from Bottlecap Press**](https://bottlecap.press/collections/bottlecap-features/products/topography)
 
-![Floral Musical Score](/images/painting/floral_score.jpg)
-*8.5 x 11 in | Mixed-media | 2023*
+![Topography of Materials Cover](/images/publication/topo_cover.png)
+
+<!-- ![Floral Musical Score](/images/painting/floral_score.jpg)
+*8.5 x 11 in | Mixed-media | 2023* -->
