@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-7EQ63Q8P39"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -29,7 +29,7 @@ title404 = "Nothing's here!"
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+gopher = ""                    # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
@@ -42,8 +42,8 @@ suffix = ""
 dateFormat = "Jan 02, 2006"
 listDateFormat = "Jan 02, 2006"
 archiveDateFormat = "Jan 02"
-hideEntryNavigation = ["page"] # boolean / array of sections
-hideEntryMeta = ["page"] # boolean / array of sections
+hideEntryNavigation = ["page"]  # boolean / array of sections
+hideEntryMeta = ["page"]        # boolean / array of sections
 showReadingTime = false
 showLastmod = false
 taxonomyCloudShuffle = true

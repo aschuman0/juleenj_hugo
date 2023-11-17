@@ -20,5 +20,9 @@ Books and CDs will be for sale. Please join us!
 ---
 
 ## Past
+[Opening Reader for David Sedaris - November 10, 2023 - Portland, Oregon]({{< ref "/post/sedaris-pdx-2023">}})
+
+[Stormy Weather Arts Festival -  November 4, 2023 - Cannon Beach, Oregon]({{< ref "/post/stormy-weather-2023">}})
+
 [Statements and Illuminations Art Show -  July 8, 2023 - Astoria, Oregon]({{< ref "/post/statements-illuminations">}})
 
