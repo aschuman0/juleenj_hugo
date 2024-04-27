@@ -13,11 +13,24 @@ Juleen's debut Chapbook is available on Bottlecap Press!
 
 —Diana Garcia, author of When Living Was a Labor Camp, 2001 American Book Award Winner
 
-[**Click Here to purchase Topography of Materials!**](https://bottlecap.press/collections/bottlecap-features/products/topography)
+You can find Topogrpahy of Materials here:
 
-![cover](/images/topo_cover.png)
+[Powell's Books](https://www.powells.com)
+
+[DoJu Moon - Nehalem, Oregon](https://dojumoon.com/) 
+
+[Noth Coast Pinball - Nehalem, Oregon](https://www.northcoastpinball.com) 
+
+[Lucy's Books - Astoria, Oregon](http://www.lucys-books.com/) 
+
+[Online: Bottlecap Press](https://bottlecap.press/collections/bottlecap-features/products/topography) 
+
+Thank you to local businesses for your kind support!
+
+
+![cover](/images/topo_shelf.jpg)
 
 ---
 
 # Online
-Online publications coming soon!
+Online publications coming soon.

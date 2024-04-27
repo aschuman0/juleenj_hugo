@@ -13,9 +13,13 @@ You can email Juleen at [juleenjohnson@gmail.com](mailto:juleenjohnson@gmail.com
 
 ## Bio
 
-Juleen Eun Sun Johnson is an interdisciplinary BIPOC writer and artist. Johnson was born in Seoul, South Korea. She was adopted at three and taken to Valdez, Alaska at the age of three. Johnson earned an MFA in Visual Studies from PNCA and an MFA in Creative Writing from University of Massachusetts, Amherst. She is a MacDowell Colony Fellow and the recipient of the Isabella Gardner Fellowship. Johnson is also a recipient of the Cannon Beach Art Association Grant for art and writing. 
+Juleen Eun Sun Johnson is an interdisciplinary BIPOC writer and artist. Johnson was born in Seoul, South Korea. She was adopted at three and taken to Valdez, Alaska. Johnson earned an MFA in Visual Studies from PNCA and an MFA in Creative Writing from University of Massachusetts Amherst. She is a MacDowell Colony Fellow and the recipient of the Isabella Gardner Fellowship. Johnson is also a 2023 recipient of the Cannon Beach Art Association Grant for art and writing.
 
-Johnson’s work has been published in: The Rio Grande Review, Whiskey Island Magazine, The Dunes Review, Poetry Northwest and other journals and anthologies. Her poem won the Zone 3 Press Prize for Poetry. Johnson’s poems have been nominated for the Best of Net. She is the founder and editor of Trestle Ties: A Landscape of Emergence. She lives on the South side of Astoria, OR with her husband Aaron and two cats (Tobias and Bruce). 
+Johnson’s work has been published in: The Rio Grande Review, Whiskey Island Magazine, The Dunes Review, Poetry Northwest and other journals and anthologies. Her poem won the Zone 3 Press Prize for Poetry. Johnson’s poems have been nominated for the Best of Net. She is the founder and editor of Trestle Ties: A Landscape of Emergence.
+
+Her debut chapbook, “Topography of Materials” was published by Bottlecap Press in 2023.
+
+Johnson lives in Astoria, OR with her husband Aaron and two cats (Tobias and Bruce).
 
 ## Resumé
 
