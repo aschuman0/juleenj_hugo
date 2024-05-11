@@ -6,9 +6,9 @@ weight: -80
 ---
 ## Current & Upcoming
 
-A work that Juleen collaborated in will be shown in the 2024 Oregon Contemporary Artists’ Biennial at Oregon Contemporary in Portland, Oregon.
+A work that Johnson collaborated in is being shown in the 2024 Oregon Contemporary Artists’ Biennial at Oregon Contemporary in Portland, Oregon.
 
-The exhibitionç is open from April 26 - August 4, 20204. Please check the Oregon Contemporary site for open dates and times. Events will be held each First Saturday while the show is up.
+The exhibition is open from April 26 - August 4, 20204. Please check the Oregon Contemporary site for open dates and times. Events will be held each First Saturday while the show is up.
 
 More information is available on the [Oregon Contemporary website](https://www.oregoncontemporary.org/2024oregoncontemporaryartistsbiennial)
 
