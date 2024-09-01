@@ -18,5 +18,5 @@ Johnson's debut Chapbook is available on Bottlecap Press!
 
 ![Topography of Materials Cover](/images/publication/topo_cover.png)
 
-<!-- ![Floral Musical Score](/images/painting/floral_score.jpg)
-*8.5 x 11 in | Mixed-media | 2023* -->
+![Floral Musical Score](/images/painting/floral_score.jpg)
+_8.5 x 11 in | Mixed-media | 2023_
